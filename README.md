@@ -1,36 +1,57 @@
 <h1 align="center">Hi 👋, I'm Moufdi Ben Saadoune</h1>
-<h3 align="center">A passionate full stack web developer from The United States</h3>
 
-- 🔭 I’m currently working on [Yellow Pages Reimagined](https://github.com/moufdi23/Final-Project-Moufdi-Erick-Diego-MI-88)
+<h3 align="center">Full-Stack Web Development Student</h3>
 
-- 🌱 I’m currently learning **Full Stack with AI**
+---
 
-- 👨‍💻 All of my projects are available at https://github.com/moufdi23?tab=repositories
+## 🚀 About Me
 
-- 💡 Interests: Web development, AI tools, e-commerce, and technology
+- 🔭 Currently working on: 0  
+- 🌱 Currently learning: Full-Stack Web Development and AI tools  
+- 🎯 Goal: Become a professional full-stack developer and build real-world applications  
+- 💡 Interests: Web development, AI tools, e-commerce, and technology  
+- 📫 Contact: moufdi.bensaadoune.dev@gmail.com  
 
-- 📫 How to reach me: **moufdi.bensaadoune.dev@gmail.com**
+---
 
-- 🎯 Goal: Becoming a professional full-stack web developer and building real-world applications
+## 🛠️ Skills
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/moufdi-ben-saadoune" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+**Frontend:**
+- HTML5
+- CSS3
+- JavaScript
 
-<h3 align="left">Languages and Tools:</h3>
+**Backend:**
+- Python
+- SQL
 
-<p align="left">
-<!-- your icons are fine, no change needed -->
-</p>
+**Tools:**
+- Git
+- GitHub
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=moufdi23&layout=compact&theme=radical" />
-</p>
+---
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=moufdi23&show_icons=true&theme=radical" />
-</p>
+## 📌 Current Focus
 
+I am focused on improving my skills by building real projects, learning modern web development concepts, and understanding how full-stack applications work from front to back.
+
+---
+
+## 📂 Projects
+
+- 1 (Main project)
+- More projects coming soon as I continue learning and building
+
+---
+
+## 🤝 Connect
+
+I am open to learning opportunities, collaboration on beginner-friendly projects, and feedback from developers.
+
+---
+
+## ⚡ Mindset
+
+Consistency > talent  
+Learning by building is the only way forward  
+Every project makes me better than yesterday
