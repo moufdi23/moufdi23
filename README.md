@@ -1,57 +1,54 @@
 <h1 align="center">Hi 👋, I'm Moufdi Ben Saadoune</h1>
-
-<h3 align="center">Full-Stack Web Development Student</h3>
-
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on: 0  
-- 🌱 Currently learning: Full-Stack Web Development and AI tools  
-- 🎯 Goal: Become a professional full-stack developer and build real-world applications  
-- 💡 Interests: Web development, AI tools, e-commerce, and technology  
-- 📫 Contact: moufdi.bensaadoune.dev@gmail.com  
+<h3 align="center">A passionate full stack web developer from The United States</h3>
 
 ---
 
-## 🛠️ Skills
+- 🔭 I’m currently working on **Yellow Pages Reimagined**
 
-**Frontend:**
-- HTML5
-- CSS3
-- JavaScript
+- 🌱 I’m currently learning **Full Stack with AI**
 
-**Backend:**
-- Python
-- SQL
+- 👨‍💻 All of my projects are available at  
+  https://github.com/moufdi23?tab=repositories
 
-**Tools:**
-- Git
-- GitHub
+- 💡 Interests: Web development, AI tools, e-commerce, and technology
+
+- 📫 How to reach me: **moufdi.bensaadoune.dev@gmail.com**
+
+- 🎯 Goal: Becoming a professional full-stack web developer and building real-world applications
 
 ---
 
-## 📌 Current Focus
-
-I am focused on improving my skills by building real projects, learning modern web development concepts, and understanding how full-stack applications work from front to back.
-
----
-
-## 📂 Projects
-
-- 1 (Main project)
-- More projects coming soon as I continue learning and building
-
----
-
-## 🤝 Connect
-
-I am open to learning opportunities, collaboration on beginner-friendly projects, and feedback from developers.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/moufdi-ben-saadoune" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://github.com/moufdi23" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" width="40" />
+</a>
+</p>
 
 ---
 
-## ⚡ Mindset
+<h3 align="left">Languages and Tools:</h3>
 
-Consistency > talent  
-Learning by building is the only way forward  
-Every project makes me better than yesterday
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40"/>
+</p>
+
+---
+
+<h3 align="left">📊 GitHub Stats</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=moufdi23&show_icons=true&theme=radical" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moufdi23&layout=compact&theme=radical" />
+</p>
