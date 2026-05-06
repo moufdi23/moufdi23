@@ -12,27 +12,86 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/moufdi-ben-saadoune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
-
----
-
 <h3 align="left">Languages and Tools:</h3>
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,bootstrap,mysql,git,bash,nestjs,androidstudio" />
-</p>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.w3.org/html/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.w3schools.com/css/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" width="40"/><br/>JavaScript
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://reactjs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" width="40"/><br/>React
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.python.org" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=flask" width="40"/><br/>Flask
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://getbootstrap.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=bash" width="40"/><br/>Bash
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://nestjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nestjs" width="40"/><br/>NestJS
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developer.android.com" target="_blank">
+        <img src="https://skillicons.dev/icons?i=androidstudio" width="40"/><br/>Android
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=moufdi23&show_icons=true&theme=tokyonight" alt="Moufdi's GitHub Stats" />
+  <a href="https://github.com/moufdi23?tab=repositories" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=moufdi23&show_icons=true&theme=tokyonight" alt="Moufdi's GitHub Stats" />
+  </a>
 </p>
 
+---
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=moufdi23&layout=compact&theme=tokyonight" alt="Top Languages" />
+<a href="https://linkedin.com/in/moufdi-ben-saadoune" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
