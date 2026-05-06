@@ -81,6 +81,55 @@
 
 ---
 
+<h3 align="left">APIs, Tools & AI:</h3>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.notion.so/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=notion" width="40"/><br/>Notion
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/>SQL
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://jwt.io/" target="_blank">
+        <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/><br/>JWT Auth
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://web3forms.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Web3Forms-6C47FF?style=for-the-badge&logo=formspree&logoColor=white" height="40"/><br/>Web3Forms
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://developers.google.com/maps/documentation/geocoding" target="_blank">
+        <img src="https://img.shields.io/badge/Geocoding_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="40"/><br/>Geocoding API
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://cursor.sh/" target="_blank">
+        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="40"/><br/>Cursor
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.anthropic.com/claude" target="_blank">
+        <img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="40"/><br/>Claude AI
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 <h3 align="left">GitHub Stats:</h3>
 
 <p align="left">
