@@ -95,12 +95,8 @@
         <img src="https://skillicons.dev/icons?i=notion" width="40"/><br/>Notion
       </a>
     </td>
-    <td align="center">
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=postgres" width="40"/><br/>SQL
-      </a>
-    </td>
-    <td align="center">
+   
+  <td align="center">
       <a href="https://jwt.io/" target="_blank">
         <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/><br/>JWT Auth
       </a>
