@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moufdi23&label=Profile%20views&color=0e75b6&style=flat" alt="moufdi23" /> </p>
 
-- 🔭 I'm currently working on [Tactiply](https://github.com/moufdi23/Final-Project-Moufdi-Erick-Diego-MI-88)
+- 🔭 I'm currently working on [Tactiply](https://github.com/moufdi23/tactiply)
 - 🌱 I'm currently learning **Full Stack with AI**
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/moufdi23?tab=repositories)
 - 💡 Interests: Web development, AI tools, e-commerce, and technology
