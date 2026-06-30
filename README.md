@@ -86,11 +86,6 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.notion.so/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=notion" width="40"/><br/>Notion
-      </a>
-    </td>
-    <td align="center">
       <a href="https://jwt.io/" target="_blank">
         <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/><br/>JWT Auth
       </a>
@@ -108,6 +103,11 @@
     <td align="center">
       <a href="https://www.anthropic.com/claude" target="_blank">
         <img src="https://img.shields.io/badge/Claude_AI-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="40"/><br/>Claude AI
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://docs.anthropic.com/" target="_blank">
+        <img src="https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white" height="40"/><br/>Claude API
       </a>
     </td>
   </tr>
