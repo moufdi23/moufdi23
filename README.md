@@ -37,18 +37,23 @@
       </a>
     </td>
     <td align="center">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://supabase.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=supabase" width="40"/><br/>Supabase
+      </a>
+    </td>
+    <td align="center">
       <a href="https://www.python.org" target="_blank">
         <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://flask.palletsprojects.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=flask" width="40"/><br/>Flask
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap
       </a>
     </td>
     <td align="center">
@@ -62,18 +67,8 @@
       </a>
     </td>
     <td align="center">
-      <a href="https://www.gnu.org/software/bash/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=bash" width="40"/><br/>Bash
-      </a>
-    </td>
-    <td align="center">
       <a href="https://nestjs.com/" target="_blank">
         <img src="https://skillicons.dev/icons?i=nestjs" width="40"/><br/>NestJS
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://developer.android.com" target="_blank">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="40"/><br/>Android
       </a>
     </td>
   </tr>
@@ -95,8 +90,7 @@
         <img src="https://skillicons.dev/icons?i=notion" width="40"/><br/>Notion
       </a>
     </td>
-   
-  <td align="center">
+    <td align="center">
       <a href="https://jwt.io/" target="_blank">
         <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" height="40"/><br/>JWT Auth
       </a>
@@ -109,11 +103,6 @@
     <td align="center">
       <a href="https://developers.google.com/maps/documentation/geocoding" target="_blank">
         <img src="https://img.shields.io/badge/Geocoding_API-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" height="40"/><br/>Geocoding API
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://cursor.sh/" target="_blank">
-        <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" height="40"/><br/>Cursor
       </a>
     </td>
     <td align="center">
@@ -130,7 +119,7 @@
 
 <p align="left">
   <a href="https://github.com/moufdi23?tab=repositories" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=moufdi23&show_icons=true&theme=tokyonight" alt="Moufdi's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=moufdi23&show_icons=true&theme=tokyonight&hide_border=true" alt="Moufdi's GitHub Stats" />
   </a>
 </p>
 
