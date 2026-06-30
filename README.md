@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moufdi Ben Saadoune</h1>
-<h3 align="center">A passionate full stack web developer from The United States</h3>
+<h3 align="center">Full Stack Developer & AI Engineer from The United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moufdi23&label=Profile%20views&color=0e75b6&style=flat" alt="moufdi23" /> </p>
 
@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [my GitHub](https://github.com/moufdi23?tab=repositories)
 - 💡 Interests: Web development, AI tools, e-commerce, and technology
 - 📫 How to reach me: **moufdi.bensaadoune.dev@gmail.com**
-- 🎯 Goal: **Becoming a professional full-stack web developer and building real-world applications**
+- 🎯 Goal: **Becoming a professional AI Engineer and building production-ready AI-powered applications**
 
 ---
 
