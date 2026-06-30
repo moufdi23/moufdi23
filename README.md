@@ -119,7 +119,7 @@
 
 <p align="left">
   <a href="https://github.com/moufdi23?tab=repositories" target="_blank">
-   <img src="https://github-readme-stats.vercel.app/api?username=moufdi23&show_icons=true&theme=tokyonight&hide_border=true" alt="Moufdi's GitHub Stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=moufdi23&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Moufdi's GitHub Stats" />
   </a>
 </p>
 
